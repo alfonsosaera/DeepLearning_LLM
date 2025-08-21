@@ -1,4 +1,4 @@
-# DeepLearning_LLM
+# Deep Learning - LLM
 
 In this list I keep a list of resources for LLMs and deep learning in general
 
@@ -19,4 +19,10 @@ applications.
 [Amazon](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961)
 <br>
 [Code on Github](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+
+### Large Language Models and their applications in Bioinformatics
+
+EMBL-EBI Training free webinars 
+<br>
+[https://www.ebi.ac.uk/training/events/large-language-models-and-their-applications-bioinformatics/](https://www.ebi.ac.uk/training/events/large-language-models-and-their-applications-bioinformatics/)
 
