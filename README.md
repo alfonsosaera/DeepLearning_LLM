@@ -1,6 +1,16 @@
-# Deep Learning - LLM
+# ML - AI - Deep Learning - LLM
 
-In this list I keep a list of resources for LLMs and deep learning in general
+In this list, I keep a collection of resources on machine learning, artificial intelligence, deep learning, and large language models (LLMs).”
+
+## ML
+
+### MIT Course MLCB: Machine Learning for Computational Biology hashtag
+
+Foundations and frontiers of computational biology, combining theory with practice. Generative AI, foundation models, machine learning, algorithm design, influential problems and techniques, analysis of large-scale biological datasets, applications to human disease and drug discovery. 
+
+Course website: [https://canvas.mit.edu/courses/33939](https://canvas.mit.edu/courses/33939)<br>
+Fall'24 Lecture Videos: [https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc](https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc)<br>
+Fall'24 Lecture Notes: [https://docs.google.com/document/d/17eG2nS0kM3RyxDZsxpLiSKaNjFLCsXvRXX3CisZvyjY/edit?tab=t.0#heading=h.1q7ssuiiix85](https://docs.google.com/document/d/17eG2nS0kM3RyxDZsxpLiSKaNjFLCsXvRXX3CisZvyjY/edit?tab=t.0#heading=h.1q7ssuiiix85)
 
 ## LLMs
 
