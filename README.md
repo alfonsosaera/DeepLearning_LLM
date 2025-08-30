@@ -4,7 +4,7 @@ In this list, I keep a collection of resources on machine learning, artificial i
 
 ## ML
 
-### MIT Course MLCB: Machine Learning for Computational Biology hashtag
+### MIT Course MLCB: Machine Learning for Computational Biology
 
 Foundations and frontiers of computational biology, combining theory with practice. Generative AI, foundation models, machine learning, algorithm design, influential problems and techniques, analysis of large-scale biological datasets, applications to human disease and drug discovery. 
 
